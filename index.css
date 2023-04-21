@@ -1,0 +1,247 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #ff6666;
+    height: 100%;
+    background-size: cover;
+}
+
+.profile-person {
+    height: 50px;
+    width: 50px;
+
+}
+
+.profile-border {
+    border: 2px solid #001f4d;
+    border-radius: 100px;
+    height: 60px;
+    width: 60px;
+    text-align: center;
+    margin: 10px;
+}
+
+.profile-name {
+    font-family: Roboto;
+    font-size: 10px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.director-container {
+    border: 3px solid #001f4d;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    margin-left: 20px;
+    margin-top: 3px;
+}
+
+.director-card {
+    padding: 10px;
+}
+
+.director-name {
+    margin: 0px;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.address-container {
+    border: 3px solid #001f4d;
+    border-top: none;
+    border-right: none;
+    margin-top: 2px;
+}
+
+.address-card {
+    margin-left: 0px;
+    margin-top: 3px;
+    padding: 5px;
+}
+
+.address {
+    font-family: Roboto;
+    font-size: 12px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+
+}
+
+hr {
+    border: 2px solid black;
+    width: 87vw;
+}
+
+.work-icon {
+    height: 40px;
+    width: 40px;
+    margin-top: 8px;
+}
+
+.year-container {
+    font-size: 12px;
+    margin-left: 40px;
+    margin-top: 15px;
+}
+
+.year {
+    margin-bottom: 38px;
+}
+
+.paragraph {
+    font-size: 11px;
+    margin-left: 30px;
+    font-family: Roboto;
+    margin-top: 15px;
+}
+
+.sub-head1 {
+    font-weight: bold;
+    margin: 0px;
+}
+
+.check-list {
+    height: 40px;
+    width: 40px;
+    margin-top: 8px;
+}
+
+.skills {
+    font-family: Roboto;
+    font-size: 10px;
+    margin-left: 20px;
+}
+
+.skills-list {
+    font-size: 12px;
+    font-family: Roboto;
+    margin-left: 20px;
+}
+
+.skills-container {
+    border: 3px solid #001f4d;
+    border-left: none;
+    margin-top: 2px;
+}
+
+.dot {
+    background-color: #001f4d;
+    height: 8px;
+    width: 8px;
+    border-radius: 20px;
+}
+
+.list1 {
+    margin-left: 80px;
+}
+
+.list2 {
+    margin-left: 16px;
+}
+
+.list3 {
+    margin-left: 50px;
+}
+
+.list4 {
+    margin-left: 20px;
+}
+
+.list5 {
+    margin-left: 47px;
+}
+
+.year-container2 {
+    border: 3px solid #001f4d;
+    border-right: none;
+    margin-top: 2px;
+    border-left: none;
+    font-size: 12px;
+}
+
+.year2 {
+    margin-bottom: 30px;
+    margin-left: 30px;
+}
+
+.paragraph-conatainer {
+    border: 3px solid #001f4d;
+    border-right: none;
+    margin-top: 2px;
+    border-left: none;
+
+}
+
+.bulb1 {
+    height: 40px;
+    width: 40px;
+    margin-top: 5px;
+}
+
+.bulb {
+    height: 40px;
+    width: 40px;
+    margin-top: 5px;
+    color: #ff6666;
+}
+
+.monitor {
+    height: 40px;
+    width: 40px;
+    margin-top: 5px;
+    color: #ff6666;
+}
+
+.mike {
+    height: 40px;
+    width: 40px;
+    margin-top: 7px;
+    border-radius: 20px;
+    color: #ff6666;
+}
+
+.intrests {
+    font-family: Roboto;
+    font-size: 10px;
+    margin-left: 6px;
+    margin-top: 20px;
+}
+
+.intrests-container {
+    border: 3px solid #001f4d;
+    border-right: none;
+    margin-top: 2px;
+    border-left: none;
+    border-top: none;
+    width: 80vw;
+}
+
+.year-container3 {
+    border: 3px solid #001f4d;
+    border-right: none;
+    margin-top: 2px;
+    border-left: none;
+    border-top: none;
+    font-size: 12px;
+}
+
+.paragraph-conatainer1 {
+    border: 3px solid #001f4d;
+    border-right: none;
+    margin-top: 2px;
+    border-left: none;
+    border-top: none;
+    width: 60vw;
+}
+
+.profile-border1 {
+    border: 2px solid #001f4d;
+    border-radius: 100px;
+    height: 60px;
+    width: 60px;
+    text-align: center;
+    margin: 10px;
+    background-color: #001f4d;
+}
